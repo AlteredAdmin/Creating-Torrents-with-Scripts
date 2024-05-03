@@ -43,7 +43,6 @@ Ensure your `trackers.txt` file follows this format:
 http://tracker1.com:6881/announce
 http://tracker2.com:6881/announce
 ...
-```
 
 Replace the example URLs with actual tracker URLs as per your requirements.
 
